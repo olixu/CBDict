@@ -1,0 +1,9 @@
+README.md
+setup.py
+CBDict/__init__.py
+CBDict.egg-info/PKG-INFO
+CBDict.egg-info/SOURCES.txt
+CBDict.egg-info/dependency_links.txt
+CBDict.egg-info/entry_points.txt
+CBDict.egg-info/requires.txt
+CBDict.egg-info/top_level.txt
