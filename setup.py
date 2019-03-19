@@ -59,7 +59,9 @@ setuptools.setup(
     ],
     install_requires=[
         "requests",
-        "pyperclip"
+        "pyperclip",
+        "dbus-python",
+        "notify2"
     ],
     entry_points={
         'console_scripts': [
